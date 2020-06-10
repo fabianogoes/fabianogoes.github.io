@@ -23,3 +23,15 @@ body {
 .card-deck .card {
   min-width: 220px;
 }
+
+ul.nav li a, ul.nav li a:visited {
+  color: #11BB77 !important;
+}
+
+ul.nav li a:hover, ul.nav li a:active {
+  color: #11BB77 !important;
+}
+
+ul.nav li.active a {
+  color: #11BB77 !important;
+}
